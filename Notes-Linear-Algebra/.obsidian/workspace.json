@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正交性 Orthogonality.md",
+                "file": "线性空间 Linear Spaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "正交性 Orthogonality"
+              "title": "线性空间 Linear Spaces"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "正交性 Orthogonality.md",
+                "file": "线性空间 Linear Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 正交性 Orthogonality"
+              "title": "Backlinks for 线性空间 Linear Spaces"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "正交性 Orthogonality.md",
+                "file": "线性空间 Linear Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 正交性 Orthogonality"
+              "title": "Outgoing links from 线性空间 Linear Spaces"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "正交性 Orthogonality.md",
+                "file": "线性空间 Linear Spaces.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 正交性 Orthogonality"
+              "title": "Outline of 线性空间 Linear Spaces"
             }
           }
         ]
@@ -188,6 +188,7 @@
   "active": "d13ce76b77c0bc32",
   "lastOpenFiles": [
     "正交性 Orthogonality.md",
+    "线性空间 Linear Spaces.md",
     "create a link.md",
     "Welcome.md"
   ]
