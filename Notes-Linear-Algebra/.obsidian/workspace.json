@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22243cb6ec9ed01a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "d13ce76b77c0bc32",
             "type": "leaf",
             "state": {
@@ -31,8 +21,23 @@
               "title": "正交性 Orthogonality"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "f15b29966425282f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22243cb6ec9ed01a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +187,8 @@
   },
   "active": "d13ce76b77c0bc32",
   "lastOpenFiles": [
-    "create a link.md",
     "正交性 Orthogonality.md",
+    "create a link.md",
     "Welcome.md"
   ]
 }
