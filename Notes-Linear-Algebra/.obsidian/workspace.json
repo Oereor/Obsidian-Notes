@@ -4,83 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "339825a1cde6dd16",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d13ce76b77c0bc32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性空间 Linear Spaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "线性空间 Linear Spaces"
-            }
-          },
-          {
-            "id": "128eca2bd8b58b7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "矩阵基础例题若干.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "矩阵基础例题若干"
-            }
-          },
-          {
-            "id": "7cf56fdfd64d67ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "上下三角行列式 对角行列式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "上下三角行列式 对角行列式"
-            }
-          },
-          {
-            "id": "5f971bd424918317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性空间 Linear Spaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "线性空间 Linear Spaces"
-            }
-          },
-          {
-            "id": "d4aae95b5d49d06d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A与A*的秩之间的关系.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A与A*的秩之间的关系"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
         "id": "f15b29966425282f",
         "type": "tabs",
         "children": [
@@ -242,14 +165,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "d4aae95b5d49d06d",
+  "active": "22243cb6ec9ed01a",
   "lastOpenFiles": [
     "线性空间 Linear Spaces.md",
-    "A与A*的秩之间的关系.md",
-    "A与A*的秩之间的关系",
-    "矩阵秩相关的常用不等式.md",
-    "上下三角行列式 对角行列式.md",
     "矩阵基础例题若干.md",
+    "上下三角行列式 对角行列式.md",
+    "A与A伴随的秩之间的关系.md",
+    "矩阵秩相关的常用不等式.md",
+    "A与A*的秩之间的关系",
     "正交性 Orthogonality.md",
     "create a link.md",
     "Welcome.md"
