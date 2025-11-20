@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "b52f287d15861fd1",
+    "id": "0c2762db7e4aca3a",
     "type": "split",
     "children": [
       {
-        "id": "f15b29966425282f",
+        "id": "f0b0d35f5bed36f2",
         "type": "tabs",
         "children": [
           {
-            "id": "22243cb6ec9ed01a",
+            "id": "29357177e644d766",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "常用积分公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常用积分公式"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "75c99eb5ab00f823",
+    "id": "51202a9e13ffc6d4",
     "type": "split",
     "children": [
       {
-        "id": "90b9b2e2d102ed0c",
+        "id": "bb606b7a8390dfb3",
         "type": "tabs",
         "children": [
           {
-            "id": "ee772d10b4a02670",
+            "id": "b1b53622e5107f4e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "241d557ae257d02a",
+            "id": "e4750629d4be3cc0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "95ae2cd249afa5f9",
+            "id": "94a2352f6cf9510b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "fae502d58714ef20",
+    "id": "08bd4857384ab822",
     "type": "split",
     "children": [
       {
-        "id": "67efca0ad2f921a4",
+        "id": "3a36558fe5921ab2",
         "type": "tabs",
         "children": [
           {
-            "id": "4bda0e4ec46b1e64",
+            "id": "eb1ac4f99192f621",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "线性空间 Linear Spaces.md",
+                "file": "A与A伴随的秩之间的关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 线性空间 Linear Spaces"
+              "title": "Backlinks for A与A伴随的秩之间的关系"
             }
           },
           {
-            "id": "b12426f6371079db",
+            "id": "61088aaac0e18923",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "线性空间 Linear Spaces.md",
+                "file": "A与A伴随的秩之间的关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 线性空间 Linear Spaces"
+              "title": "Outgoing links from A与A伴随的秩之间的关系"
             }
           },
           {
-            "id": "98aed13c31c82087",
+            "id": "e2c8902602639cb3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,18 +137,32 @@
             }
           },
           {
-            "id": "8798c1f00d129943",
+            "id": "5062c01d59ec169e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "eaf25c1c36ca40c7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "线性空间 Linear Spaces.md",
+                "file": "A与A伴随的秩之间的关系.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 线性空间 Linear Spaces"
+              "title": "Outline of A与A伴随的秩之间的关系"
             }
           }
         ]
@@ -165,16 +183,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "22243cb6ec9ed01a",
+  "active": "29357177e644d766",
   "lastOpenFiles": [
-    "线性空间 Linear Spaces.md",
-    "矩阵基础例题若干.md",
+    "常用积分公式.md",
     "上下三角行列式 对角行列式.md",
-    "A与A伴随的秩之间的关系.md",
-    "矩阵秩相关的常用不等式.md",
-    "A与A*的秩之间的关系",
     "正交性 Orthogonality.md",
-    "create a link.md",
-    "Welcome.md"
+    "A与A伴随的秩之间的关系.md",
+    "线性空间 Linear Spaces.md",
+    "矩阵秩相关的常用不等式.md",
+    "矩阵基础例题若干.md",
+    "Notes-Linear-Algebra/线性空间 Linear Spaces.md",
+    "Notes-Linear-Algebra/矩阵秩相关的常用不等式.md",
+    "Notes-Linear-Algebra/矩阵基础例题若干.md",
+    "Notes-Linear-Algebra/正交性 Orthogonality.md",
+    "Notes-Linear-Algebra/上下三角行列式 对角行列式.md",
+    "Notes-Linear-Algebra/A与A伴随的秩之间的关系.md"
   ]
 }
