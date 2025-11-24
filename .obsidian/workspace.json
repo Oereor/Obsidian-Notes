@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性变换.md",
+                "file": "矩阵秩相关的常用不等式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线性变换"
+              "title": "矩阵秩相关的常用不等式"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "99b8318b5703ada5",
   "lastOpenFiles": [
-    "欧氏空间.md",
     "线性变换.md",
+    "欧氏空间.md",
     "线性变换的性质.md",
     "线性空间 Linear Spaces.md",
     "sh1ro-m0NESY公式.md",
