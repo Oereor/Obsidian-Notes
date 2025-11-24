@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性变换的性质.md",
+                "file": "线性变换.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线性变换的性质"
+              "title": "线性变换"
             }
           }
         ],
@@ -200,11 +200,11 @@
   },
   "active": "99b8318b5703ada5",
   "lastOpenFiles": [
+    "线性变换的性质.md",
     "线性空间 Linear Spaces.md",
     "sh1ro-m0NESY公式.md",
     "三角函数相关积分（可化为有理函数）.md",
     "A与A伴随的秩之间的关系.md",
-    "线性变换的性质.md",
     "线性变换.md",
     "矩阵秩相关的常用不等式.md",
     "正交性 Orthogonality.md",
