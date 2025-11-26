@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "可积性.md",
+                "file": "常用积分公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可积性"
+              "title": "常用积分公式"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "可积性.md",
+                "file": "常用积分公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 可积性"
+              "title": "Backlinks for 常用积分公式"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "可积性.md",
+                "file": "常用积分公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 可积性"
+              "title": "Outgoing links from 常用积分公式"
             }
           },
           {
@@ -185,8 +185,8 @@
   },
   "active": "9692a728188fefd9",
   "lastOpenFiles": [
-    "如何处理矩阵高次幂的问题.md",
     "可积性.md",
+    "如何处理矩阵高次幂的问题.md",
     "A与A伴随的秩之间的关系.md",
     "线性变换在不同基下的矩阵.md",
     "定积分的引入.md",
