@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方阵的特征值与特征向量.md",
+                "file": "相似矩阵.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方阵的特征值与特征向量"
+              "title": "相似矩阵"
             }
           },
           {
@@ -159,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -271,8 +270,8 @@
   },
   "active": "e490b19e7461cdd9",
   "lastOpenFiles": [
-    "特征值和特征向量的性质.md",
     "方阵的特征值与特征向量.md",
+    "特征值和特征向量的性质.md",
     "微积分基本定理.md",
     "可积函数的性质.md",
     "定积分的运算性质.md",
