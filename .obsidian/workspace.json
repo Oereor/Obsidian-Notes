@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -282,10 +282,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "471ead83fe6afe1d",
+  "active": "eb6e3511114f93de",
   "lastOpenFiles": [
-    "定积分的计算方法.md",
     "积分第二中值定理.md",
+    "定积分的计算方法.md",
     "矩阵的相似变换.md",
     "矩阵秩相关的常用不等式.md",
     "特征值和特征向量的性质.md",
