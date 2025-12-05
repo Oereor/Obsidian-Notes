@@ -1,0 +1,1 @@
+设 $f\in R[a,b]$, 那么 $$\lim_{p\to+\infty}\int_{a}^{b}f(x)\sin(px)\,dx=0,\qquad \lim_{p\to+\infty}\int_{a}^{b}f(x)\cos(px)\,dx=0.$$ 
