@@ -1,1 +1,7 @@
-设 $f\in R[a,b]$, 那么 $$\lim_{p\to+\infty}\int_{a}^{b}f(x)\sin(px)\,dx=0,\qquad \lim_{p\to+\infty}\int_{a}^{b}f(x)\cos(px)\,dx=0.$$ 
+设 $f\in R[a,b]$, 那么 $$\lim_{p\to+\infty}\int_{a}^{b}f(x)\sin(px)\,dx=0,\qquad \lim_{p\to+\infty}\int_{a}^{b}f(x)\cos(px)\,dx=0.$$
+> **证明.** 不妨仅证明 $\cos$ 的那一部分. 若 $f\equiv 1$ 则结论显然; 否则, 我们将区间 $[a,b]$ 划分成 $n$ 等份, 其中 $n=[\sqrt{p}]$, 也就是说 $\displaystyle x_i=a+\frac{b-a}{n}i$, $i=0,1,2,\cdots,n$. 那么, $$\begin{align*}
+    \left|\int_{a}^{b}f(x)\cos(px|)\,dx\right|&=\left|\sum_{i=1}^{n}\int_{x_{i-1}}^{x_i}f(x)\cos(px)\,dx\right|\\
+    &\leq\left|\sum_{i=1}^{n}\int_{x_{i-1}}^{x_i}f(x)-f(x_{i-1})\cos(px)\,dx\right|+\left|\sum_{i=1}^{n}f(x_{i-1})\int_{x_{i-1}}^{x_i}\cos(px)\,dx\right|
+\end{align*}$$ 由于 $f(x)-f(x_{i-1})\leq\omega_i$, $\cos(px)\leq 1$, 那么 $$\left|\sum_{i=1}^{n}\int_{x_{i-1}}^{x_i}f(x)-f(x_{i-1})\cos(px)\,dx\right|\leq\sum_{i=1}^{n}\omega_i\Delta x_i$$ 另一方面, 设 $|f(x)|\leq M$, 则 $$\left|\sum_{i=1}^{n}f(x_{i-1})\int_{x_{i-1}}^{x_i}\cos(px)\,dx\right|\leq M\sum_{i=1}^{n}\frac{2}{p}\leq M\cdot\frac{2}{p}\cdot\sqrt{p}=\frac{2M}{\sqrt{p}}.$$ 当 $p\to+\infty$ 时 $\displaystyle\sum_{i=1}^{n}\omega_i\Delta x_i$ 和 $\displaystyle\frac{2M}{\sqrt{p}}$ 均 $\to 0$. 证毕. 
+
+**推广的 Riemann 引理.** 设 $f\in R[a,b]$, $g$ 以 $T$ 为周期, $g\in R[0,T]$. 那么 $$\lim_{p\to+\infty}\int_{a}^{b}f(x)g(px)\,dx=\frac{1}{T}\int_{0}^{T}g(x)\,dx\cdot\int_{a}^{b}f(x)\,dx.$$ 这里我们不给出证明. 在应用此引理时, 需要适当选取 $f$ 和 $g$.
