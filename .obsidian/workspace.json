@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -282,15 +282,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "b76fd1dcd50f5883",
+  "active": "fc3a7905e0beb996",
   "lastOpenFiles": [
+    "积分第二中值定理.md",
     "探究矩阵能与什么简单的矩阵相似.md",
     "重要的行列式相关恒等式.md",
     "方阵的特征值与特征向量.md",
     "定积分的应用.md",
     "Riemann 引理.md",
     "特征值和特征向量的性质.md",
-    "积分第二中值定理.md",
     "定积分的计算方法.md",
     "矩阵的相似变换.md",
     "矩阵秩相关的常用不等式.md",
