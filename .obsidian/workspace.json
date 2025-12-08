@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "对合矩阵.md",
+                "file": "重要的行列式相关恒等式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "对合矩阵"
+              "title": "重要的行列式相关恒等式"
             }
           },
           {
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "行列式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -313,8 +313,9 @@
   },
   "active": "bc3ecc84537118ac",
   "lastOpenFiles": [
-    "投影矩阵.md",
+    "方阵的特征值与特征向量.md",
     "对合矩阵.md",
+    "投影矩阵.md",
     "方阵的 Jordan 标准型.md",
     "正交性 Orthogonality.md",
     "探究矩阵能与什么简单的矩阵相似.md",
@@ -325,7 +326,6 @@
     "定积分的运算性质.md",
     "积分第二中值定理.md",
     "定积分的计算方法.md",
-    "方阵的特征值与特征向量.md",
     "特征值和特征向量的性质.md",
     "矩阵秩相关的常用不等式.md",
     "线性变换在不同基下的矩阵.md",
