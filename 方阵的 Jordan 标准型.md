@@ -26,3 +26,5 @@ n, & \lambda_0=0
 2. 特征值 $0$ 的几何重数 $n-r(A)$ 等于标准型中 Jordan 块的个数. 
 
 > **证明.** 设 $A=P^{-1}JP$, $A^k=O$, 则 $J^k=O$, 即每个 $J_i^k=O$, 因此每个 Jordan 块的对角元必定为 $0$, 且阶数均不大于 $k$. 另外, 由 $r(A)=r(J)$ 可知, $$r(A)=\sum_i r(J_i)=\sum_i (n_i-1)=n-m,$$ 其中 $m$ 是 Jordan 块的个数, $n_i$ 是第 $i$ 个 Jordan 块的阶数. 因此, $m=n-r(A)$.
+
+现在考察一般矩阵 $A$ 的 Jordan 标准型. 设 $\lambda$ 为 $A$ 的一个特征值, 那么 $n-r(\lambda E-A)$ 等于 Jordan 标准型中对角元为 $\lambda$ 的 Jordan 块的个数. 
