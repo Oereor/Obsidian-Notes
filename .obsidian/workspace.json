@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "行列式",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,8 +201,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -311,7 +310,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc3ecc84537118ac",
+  "active": "b1b53622e5107f4e",
   "lastOpenFiles": [
     "方阵的特征值与特征向量.md",
     "对合矩阵.md",
