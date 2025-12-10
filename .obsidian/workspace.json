@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -282,10 +282,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "6cb20689216d73a0",
+  "active": "7a6df0d1dadd9b43",
   "lastOpenFiles": [
-    "方阵的化零多项式.md",
     "Lebesgue 定理.md",
+    "方阵的化零多项式.md",
     "矩阵的相似变换.md",
     "方阵的 Jordan 标准型.md",
     "定积分的应用.md",
