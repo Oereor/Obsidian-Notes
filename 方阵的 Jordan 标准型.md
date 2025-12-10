@@ -8,12 +8,12 @@ Jordan 块有如下的性质 (此处设对角线上的元素为 $\lambda_0$):
 n-1, & \lambda_0\neq 0 \\ 
 n, & \lambda_0=0
 \end{cases}.$$
-4. $r(J^k)=n-k$, $1\leq k\leq n$. 
+4. 若 $\lambda_0=0$, 则 $r(J^k)=n-k$, $1\leq k\leq n$. 
 5. 对角线上元素不同的 Jordan 块不相似. 
 
 ### Jordan 标准型
 
-由若干个 Jordan 块构成的分块对角矩阵 $$J=\begin{bmatrix}J_1 & 0 & \cdots & 0 \\ 0 & J_2 & \cdots & 0 \\ \vdots & \vdots & \ddots & \vdots \\ 0 & 0 & \cdots & J_n\end{bmatrix}$$ 称为 Jordan 标准型.
+由若干个 Jordan 块构成的分块对角矩阵 $$J=\begin{bmatrix}J_1 & O & \cdots & O \\ O & J_2 & \cdots & O \\ \vdots & \vdots & \ddots & \vdots \\ O & O & \cdots & J_n\end{bmatrix}$$ 称为 Jordan 标准型.
 
 > **Jordan 标准型定理.** 在 $\mathbb{C}$ 上, 任意一个 $n$ 阶方阵 $A$ 都相似于某个 Jordan 标准型矩阵 $J$. 如果不考虑各个 Jordna 块的次序, 那么该矩阵 $J$ 是唯一的.
 
@@ -28,3 +28,5 @@ n, & \lambda_0=0
 > **证明.** 设 $A=P^{-1}JP$, $A^k=O$, 则 $J^k=O$, 即每个 $J_i^k=O$, 因此每个 Jordan 块的对角元必定为 $0$, 且阶数均不大于 $k$. 另外, 由 $r(A)=r(J)$ 可知, $$r(A)=\sum_i r(J_i)=\sum_i (n_i-1)=n-m,$$ 其中 $m$ 是 Jordan 块的个数, $n_i$ 是第 $i$ 个 Jordan 块的阶数. 因此, $m=n-r(A)$.
 
 现在考察一般矩阵 $A$ 的 Jordan 标准型. 设 $\lambda$ 为 $A$ 的一个特征值, 那么 $n-r(\lambda E-A)$ (即 $\lambda$ 的几何重数) 等于 Jordan 标准型中对角元为 $\lambda$ 的 Jordan 块的个数. 
+
+事实上, 还可以进一步推广. 记 $\eta_k=n-r((\lambda E-A)^k)$, Jordan 标准型中对角元为 $\lambda$ 的 $k$ 阶 Jordan 块的个数为 $l_k$, 则有 $l_k=2\eta_k-\eta_{k-1}+\eta_{k+1}$. 特别地, $k=1$ 时 $l_1=2\eta_1-\eta_2$. 
