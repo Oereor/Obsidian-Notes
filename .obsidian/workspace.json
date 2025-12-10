@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "定积分的应用.md",
+                "file": "方阵的 Jordan 标准型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定积分的应用"
+              "title": "方阵的 Jordan 标准型"
             }
           },
           {
@@ -242,6 +242,7 @@
   },
   "active": "a6595c7420bd76de",
   "lastOpenFiles": [
+    "定积分的应用.md",
     "积分第二中值定理.md",
     "正交性 Orthogonality.md",
     "方阵的 Jordan 标准型.md",
@@ -249,7 +250,6 @@
     "投影矩阵.md",
     "探究矩阵能与什么简单的矩阵相似.md",
     "矩阵的相似变换.md",
-    "定积分的应用.md",
     "重要的行列式相关恒等式.md",
     "Riemann 引理.md",
     "定积分的运算性质.md",
