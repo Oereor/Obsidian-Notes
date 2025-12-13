@@ -106,6 +106,18 @@
             }
           },
           {
+            "id": "45396e7f43ad8dea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "c918dd7217c25b27",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -310,7 +322,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd73c68cf236f7b9",
+  "active": "45396e7f43ad8dea",
   "lastOpenFiles": [
     "广义积分 (引).md",
     "无穷积分.md",
