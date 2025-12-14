@@ -15,7 +15,7 @@ n, & \lambda_0=0
 
 由若干个 Jordan 块构成的分块对角矩阵 $$J=\begin{bmatrix}J_1 & O & \cdots & O \\ O & J_2 & \cdots & O \\ \vdots & \vdots & \ddots & \vdots \\ O & O & \cdots & J_n\end{bmatrix}$$ 称为 Jordan 标准型.
 
-> **Jordan 标准型定理.** 在 $\mathbb{C}$ 上, 任意一个 $n$ 阶方阵 $A$ 都相似于某个 Jordan 标准型矩阵 $J$. 如果不考虑各个 Jordna 块的次序, 那么该矩阵 $J$ 是唯一的.
+> **Jordan 标准型定理.** 在 $\mathbb{C}$ 上, 任意一个 $n$ 阶方阵 $A$ 都相似于某个 Jordan 标准型矩阵 $J$. 如果不考虑各个 Jordan 块的次序, 那么该矩阵 $J$ 是唯一的.
 
 我们略去此定理的证明. 
 
