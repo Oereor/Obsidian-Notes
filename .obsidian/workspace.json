@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -311,14 +311,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "a6595c7420bd76de",
+  "active": "7a6df0d1dadd9b43",
   "lastOpenFiles": [
+    "方阵的 Jordan 标准型.md",
     "方阵的化零多项式.md",
     "矩阵的相似变换.md",
     "广义积分 (引).md",
     "无穷积分.md",
     "Lebesgue 定理.md",
-    "方阵的 Jordan 标准型.md",
     "定积分的应用.md",
     "积分第二中值定理.md",
     "正交性 Orthogonality.md",
