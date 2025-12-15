@@ -49,7 +49,8 @@
               "title": "正交性"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +212,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "501deeb277759de6",
+  "active": "cee770d73896fece",
   "lastOpenFiles": [
-    "无穷积分.md",
+    "广义积分 (引).md",
     "实对称矩阵的相似对角阵.md",
+    "无穷积分.md",
     "正交性.md",
     "线性变换的矩阵.md",
     "线性变换的性质.md",
@@ -223,7 +225,6 @@
     "定积分的计算方法.md",
     "定积分的运算性质.md",
     "矩阵的相似变换.md",
-    "广义积分 (引).md",
     "Lebesgue 定理.md",
     "方阵的化零多项式.md",
     "方阵的 Jordan 标准型.md",
