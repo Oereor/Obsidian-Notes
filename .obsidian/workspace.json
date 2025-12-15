@@ -49,8 +49,7 @@
               "title": "正交性"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微积分基本定理.md",
+                "file": "实对称矩阵的相似对角阵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 微积分基本定理"
+              "title": "Backlinks for 实对称矩阵的相似对角阵"
             }
           },
           {
@@ -212,12 +211,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "cee770d73896fece",
+  "active": "501deeb277759de6",
   "lastOpenFiles": [
-    "广义积分 (引).md",
+    "正交性.md",
     "实对称矩阵的相似对角阵.md",
     "无穷积分.md",
-    "正交性.md",
+    "广义积分 (引).md",
     "线性变换的矩阵.md",
     "线性变换的性质.md",
     "线性变换.md",
