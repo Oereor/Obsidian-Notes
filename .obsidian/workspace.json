@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68c1ac8ed1b95b02",
+        "id": "02a9f03178fbde4a",
         "type": "tabs",
         "children": [
           {
-            "id": "501deeb277759de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实对称矩阵的相似对角阵.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "实对称矩阵的相似对角阵"
-            }
-          },
-          {
-            "id": "cee770d73896fece",
+            "id": "beae0a1fe9bfa9b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,17 +22,17 @@
             }
           },
           {
-            "id": "4261944ded86ef89",
+            "id": "a517c612e921382a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正交性.md",
+                "file": "可积函数的性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "正交性"
+              "title": "可积函数的性质"
             }
           }
         ]
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实对称矩阵的相似对角阵.md",
+                "file": "无穷积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 实对称矩阵的相似对角阵"
+              "title": "Backlinks for 无穷积分"
             }
           },
           {
@@ -211,18 +197,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "501deeb277759de6",
+  "active": "beae0a1fe9bfa9b9",
   "lastOpenFiles": [
+    "可积函数的性质.md",
+    "无穷积分.md",
+    "定积分的运算性质.md",
     "正交性.md",
     "实对称矩阵的相似对角阵.md",
-    "无穷积分.md",
     "广义积分 (引).md",
     "线性变换的矩阵.md",
     "线性变换的性质.md",
     "线性变换.md",
     "线性空间.md",
     "定积分的计算方法.md",
-    "定积分的运算性质.md",
     "矩阵的相似变换.md",
     "Lebesgue 定理.md",
     "方阵的化零多项式.md",
@@ -237,7 +224,6 @@
     "方阵的特征值与特征向量.md",
     "特征值和特征向量的性质.md",
     "矩阵秩相关的常用不等式.md",
-    "线性变换在不同基下的矩阵.md",
-    "微积分基本定理.md"
+    "线性变换在不同基下的矩阵.md"
   ]
 }
