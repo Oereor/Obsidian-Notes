@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方阵的特征值与特征向量.md",
+                "file": "瑕积分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方阵的特征值与特征向量"
+              "title": "瑕积分"
             }
           },
           {
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方阵的特征值与特征向量.md",
+                "file": "瑕积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 方阵的特征值与特征向量"
+              "title": "Backlinks for 瑕积分"
             }
           },
           {
@@ -256,15 +256,15 @@
   },
   "active": "045d884337c254e5",
   "lastOpenFiles": [
+    "无穷积分.md",
+    "瑕积分.md",
+    "方阵的特征值与特征向量.md",
     "重要的行列式相关恒等式.md",
     "探究矩阵能与什么简单的矩阵相似.md",
     "特征值和特征向量的性质.md",
     "实对称矩阵的相似对角阵.md",
-    "方阵的特征值与特征向量.md",
     "对角矩阵.md",
     "正交性.md",
-    "瑕积分.md",
-    "无穷积分.md",
     "可积函数的性质.md",
     "定积分的运算性质.md",
     "广义积分 (引).md",
