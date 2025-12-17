@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "重要的行列式相关恒等式.md",
+                "file": "方阵的特征值与特征向量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 重要的行列式相关恒等式"
+              "title": "Backlinks for 方阵的特征值与特征向量"
             }
           },
           {
@@ -254,8 +254,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3e12ccf11cee231",
+  "active": "045d884337c254e5",
   "lastOpenFiles": [
+    "重要的行列式相关恒等式.md",
     "探究矩阵能与什么简单的矩阵相似.md",
     "特征值和特征向量的性质.md",
     "实对称矩阵的相似对角阵.md",
@@ -280,7 +281,6 @@
     "积分第二中值定理.md",
     "对合矩阵.md",
     "投影矩阵.md",
-    "重要的行列式相关恒等式.md",
     "Riemann 引理.md"
   ]
 }
