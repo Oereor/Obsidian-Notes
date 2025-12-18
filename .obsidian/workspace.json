@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "4d30058090e0a11b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实二次型及其标准型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "实二次型及其标准型"
+            }
+          },
+          {
             "id": "a0db846830fe4f36",
             "type": "leaf",
             "state": {
@@ -50,49 +64,7 @@
             }
           },
           {
-            "id": "ca1669b33782924b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实二次型及其标准型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "实二次型及其标准型"
-            }
-          },
-          {
-            "id": "d3e12ccf11cee231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "重要的行列式相关恒等式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "重要的行列式相关恒等式"
-            }
-          },
-          {
             "id": "0848433109b7b16c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "探究矩阵能与什么简单的矩阵相似.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "探究矩阵能与什么简单的矩阵相似"
-            }
-          },
-          {
-            "id": "d173489569fcc3f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,9 +76,23 @@
               "icon": "lucide-file",
               "title": "正交性"
             }
+          },
+          {
+            "id": "d173489569fcc3f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "矩阵秩相关的常用结论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵秩相关的常用结论"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -179,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实二次型及其标准型.md",
+                "file": "正交性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 实二次型及其标准型"
+              "title": "Backlinks for 正交性"
             }
           },
           {
@@ -268,33 +254,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "ca1669b33782924b",
+  "active": "0848433109b7b16c",
   "lastOpenFiles": [
-    "瑕积分.md",
+    "线性变换的性质.md",
+    "矩阵秩相关的常用结论.md",
     "实二次型及其标准型.md",
+    "实对称矩阵的相似对角阵.md",
+    "正交性.md",
+    "线性变换.md",
+    "欧氏空间.md",
+    "探究矩阵能与什么简单的矩阵相似.md",
+    "线性空间.md",
+    "重要的行列式相关恒等式.md",
+    "瑕积分.md",
     "无穷积分.md",
     "方阵的特征值与特征向量.md",
-    "重要的行列式相关恒等式.md",
-    "探究矩阵能与什么简单的矩阵相似.md",
     "特征值和特征向量的性质.md",
-    "实对称矩阵的相似对角阵.md",
     "对角矩阵.md",
-    "正交性.md",
     "可积函数的性质.md",
     "定积分的运算性质.md",
     "广义积分 (引).md",
     "线性变换的矩阵.md",
-    "线性变换的性质.md",
-    "线性变换.md",
-    "线性空间.md",
     "定积分的计算方法.md",
     "矩阵的相似变换.md",
     "Lebesgue 定理.md",
     "方阵的化零多项式.md",
     "方阵的 Jordan 标准型.md",
     "定积分的应用.md",
-    "积分第二中值定理.md",
-    "对合矩阵.md",
-    "投影矩阵.md"
+    "积分第二中值定理.md"
   ]
 }
