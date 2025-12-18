@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "正交性.md",
+                "file": "实二次型及其标准型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 正交性"
+              "title": "Backlinks for 实二次型及其标准型"
             }
           },
           {
@@ -254,13 +254,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "0848433109b7b16c",
+  "active": "4d30058090e0a11b",
   "lastOpenFiles": [
+    "正交性.md",
     "线性变换的性质.md",
     "矩阵秩相关的常用结论.md",
     "实二次型及其标准型.md",
     "实对称矩阵的相似对角阵.md",
-    "正交性.md",
     "线性变换.md",
     "欧氏空间.md",
     "探究矩阵能与什么简单的矩阵相似.md",
