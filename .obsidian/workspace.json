@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实二次型及其标准型.md",
+                "file": "定积分的应用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实二次型及其标准型"
+              "title": "定积分的应用"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "行列式",
+                "query": "弧长",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,10 +257,10 @@
   },
   "active": "4d30058090e0a11b",
   "lastOpenFiles": [
+    "实二次型及其标准型.md",
     "正交性.md",
     "线性变换的性质.md",
     "矩阵秩相关的常用结论.md",
-    "实二次型及其标准型.md",
     "实对称矩阵的相似对角阵.md",
     "线性变换.md",
     "欧氏空间.md",
