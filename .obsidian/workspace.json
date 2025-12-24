@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "无穷积分.md",
+                "file": "实二次型及其标准型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 无穷积分"
+              "title": "Backlinks for 实二次型及其标准型"
             }
           },
           {
@@ -380,8 +380,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4d5fbdf5845d477d",
+  "active": "4d30058090e0a11b",
   "lastOpenFiles": [
+    "实对称矩阵的相似对角阵.md",
+    "无穷积分.md",
     "定积分的应用.md",
     "可积性.md",
     "积分第二中值定理.md",
@@ -394,10 +396,8 @@
     "对角矩阵的几何意义.md",
     "数项级数.md",
     "实二次型及其标准型.md",
-    "实对称矩阵的相似对角阵.md",
     "Floyd 判圈算法.md",
     "瑕积分.md",
-    "无穷积分.md",
     "对角矩阵.md",
     "线性变换在不同基下的矩阵.md",
     "对合矩阵.md",
