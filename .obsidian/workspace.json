@@ -92,6 +92,34 @@
             }
           },
           {
+            "id": "47f20aa530d79a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "定积分的应用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "定积分的应用"
+            }
+          },
+          {
+            "id": "4d5fbdf5845d477d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "无穷积分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "无穷积分"
+            }
+          },
+          {
             "id": "a55b6e99e88b0e08",
             "type": "leaf",
             "state": {
@@ -190,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -263,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "积分第二中值定理.md",
+                "file": "无穷积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 积分第二中值定理"
+              "title": "Backlinks for 无穷积分"
             }
           },
           {
@@ -352,11 +380,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "797ea98ecc51a7c8",
+  "active": "4d5fbdf5845d477d",
   "lastOpenFiles": [
+    "定积分的应用.md",
+    "可积性.md",
+    "积分第二中值定理.md",
+    "收敛级数的性质.md",
     "可积函数的性质.md",
     "可积函数类.md",
-    "可积性.md",
     "正项级数的敛散性.md",
     "定积分的运算性质.md",
     "数列的上下极限.md",
@@ -365,7 +396,6 @@
     "实二次型及其标准型.md",
     "实对称矩阵的相似对角阵.md",
     "Floyd 判圈算法.md",
-    "收敛级数的性质.md",
     "瑕积分.md",
     "无穷积分.md",
     "对角矩阵.md",
@@ -377,8 +407,6 @@
     "线性变换.md",
     "欧氏空间.md",
     "探究矩阵能与什么简单的矩阵相似.md",
-    "线性空间.md",
-    "重要的行列式相关恒等式.md",
-    "方阵的特征值与特征向量.md"
+    "线性空间.md"
   ]
 }
