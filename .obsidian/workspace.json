@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "16d442b678afb1d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数列的上下极限.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "数列的上下极限"
-            }
-          },
-          {
             "id": "a0db846830fe4f36",
             "type": "leaf",
             "state": {
@@ -103,34 +89,6 @@
               },
               "icon": "lucide-file",
               "title": "正项级数的敛散性"
-            }
-          },
-          {
-            "id": "fb1e5f82aba12dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "任意项级数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "任意项级数"
-            }
-          },
-          {
-            "id": "b3604cf939eee841",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "常用积分公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "常用积分公式"
             }
           },
           {
@@ -272,19 +230,9 @@
               "icon": "lucide-file",
               "title": "矩阵秩相关的常用结论"
             }
-          },
-          {
-            "id": "141e03d9eba8836a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -357,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "任意项级数.md",
+                "file": "惯性定理与正定二次型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 任意项级数"
+              "title": "Backlinks for 惯性定理与正定二次型"
             }
           },
           {
@@ -376,12 +324,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "任意项级数.md",
+                "file": "微积分基本定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 任意项级数"
+              "title": "Outgoing links from 微积分基本定理"
             }
           },
           {
@@ -419,17 +367,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "任意项级数.md",
+                "file": "A与A伴随的秩之间的关系.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 任意项级数"
+              "title": "Outline of A与A伴随的秩之间的关系"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -447,25 +394,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "b92c9cb9ae382223",
+  "active": "40e4110e9367f9f2",
   "lastOpenFiles": [
     "任意项级数.md",
-    "正项级数的敛散性.md",
-    "常用积分公式.md",
-    "数项级数.md",
-    "数列的上下极限.md",
-    "收敛级数的性质.md",
-    "惯性定理与正定二次型.md",
     "实二次型及其标准型.md",
+    "惯性定理与正定二次型.md",
     "实对称矩阵的相似对角阵.md",
     "无穷积分.md",
     "定积分的应用.md",
     "可积性.md",
     "积分第二中值定理.md",
+    "收敛级数的性质.md",
     "可积函数的性质.md",
     "可积函数类.md",
+    "正项级数的敛散性.md",
     "定积分的运算性质.md",
+    "数列的上下极限.md",
     "对角矩阵的几何意义.md",
+    "数项级数.md",
     "Floyd 判圈算法.md",
     "瑕积分.md",
     "对角矩阵.md",
@@ -474,6 +420,7 @@
     "正交性.md",
     "线性变换的性质.md",
     "矩阵秩相关的常用结论.md",
-    "线性变换.md"
+    "线性变换.md",
+    "欧氏空间.md"
   ]
 }
