@@ -284,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -447,10 +447,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "fb1e5f82aba12dff",
+  "active": "b92c9cb9ae382223",
   "lastOpenFiles": [
-    "正项级数的敛散性.md",
     "任意项级数.md",
+    "正项级数的敛散性.md",
     "常用积分公式.md",
     "数项级数.md",
     "数列的上下极限.md",
