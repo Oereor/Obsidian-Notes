@@ -4,193 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02a9f03178fbde4a",
+        "id": "faf3f6cc134a6c7b",
         "type": "tabs",
         "children": [
           {
-            "id": "6bfd5ab3e1b69f69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实对称矩阵的相似对角阵.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "实对称矩阵的相似对角阵"
-            }
-          },
-          {
-            "id": "4d30058090e0a11b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实二次型及其标准型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "实二次型及其标准型"
-            }
-          },
-          {
-            "id": "40e4110e9367f9f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "惯性定理与正定二次型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "惯性定理与正定二次型"
-            }
-          },
-          {
-            "id": "63009cb27e1ebe51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "任意项级数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "任意项级数"
-            }
-          },
-          {
-            "id": "0a4170908af200eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "更序级数 (重排级数).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "更序级数 (重排级数)"
-            }
-          },
-          {
-            "id": "4a672757234dc332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "级数的乘积.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "级数的乘积"
-            }
-          },
-          {
-            "id": "9efe9dc5e4244365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "正交性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "正交性"
-            }
-          },
-          {
-            "id": "a0db846830fe4f36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "对角矩阵的几何意义.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "对角矩阵的几何意义"
-            }
-          },
-          {
-            "id": "7ed85f6b2a95a935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数项级数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "数项级数"
-            }
-          },
-          {
-            "id": "b92c9cb9ae382223",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "正项级数的敛散性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "正项级数的敛散性"
-            }
-          },
-          {
-            "id": "9b4122c548075bd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "可积性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "可积性"
-            }
-          },
-          {
-            "id": "47f20aa530d79a05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "定积分的应用.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "定积分的应用"
-            }
-          },
-          {
-            "id": "4d5fbdf5845d477d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "无穷积分.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "无穷积分"
-            }
-          },
-          {
-            "id": "a55b6e99e88b0e08",
+            "id": "a3af3b7cc36ba345",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,49 +22,49 @@
             }
           },
           {
-            "id": "b8c02403898a77f1",
+            "id": "cbbf63d68b26dbae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "可积函数的性质.md",
+                "file": "乱七八糟的积分例题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可积函数的性质"
+              "title": "乱七八糟的积分例题"
             }
           },
           {
-            "id": "797ea98ecc51a7c8",
+            "id": "3e77dd15fdadac18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "积分第二中值定理.md",
+                "file": "常用积分公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "积分第二中值定理"
+              "title": "常用积分公式"
             }
           },
           {
-            "id": "17a93c4b9598b56d",
+            "id": "00582858112be06c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收敛级数的性质.md",
+                "file": "无穷积分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "收敛级数的性质"
+              "title": "无穷积分"
             }
           },
           {
-            "id": "045d884337c254e5",
+            "id": "621a1a5bd7cf6a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -260,21 +78,161 @@
             }
           },
           {
-            "id": "0848433109b7b16c",
+            "id": "d9ac0d41148012ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正交性.md",
+                "file": "微积分基本定理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "正交性"
+              "title": "微积分基本定理"
+            }
+          },
+          {
+            "id": "bb7c24ecdec69963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数列的上下极限.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数列的上下极限"
+            }
+          },
+          {
+            "id": "ac884363900cd3ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "有理函数的积分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "有理函数的积分"
+            }
+          },
+          {
+            "id": "a6db7ab1a662366c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实对称矩阵的相似对角阵.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "实对称矩阵的相似对角阵"
+            }
+          },
+          {
+            "id": "4af6b5d9b7126c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分部积分的应用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "分部积分的应用"
+            }
+          },
+          {
+            "id": "9836fd7541b4f8ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "积分第二中值定理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "积分第二中值定理"
+            }
+          },
+          {
+            "id": "1b5d3a8a5d56d33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性变换.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "线性变换"
+            }
+          },
+          {
+            "id": "59aca7d3b468c752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性变换的性质.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "线性变换的性质"
+            }
+          },
+          {
+            "id": "aa02b19714ae8bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "矩阵秩相关的常用结论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵秩相关的常用结论"
+            }
+          },
+          {
+            "id": "70e33dd7f8e90a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性空间.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "线性空间"
+            }
+          },
+          {
+            "id": "739ebb526a993323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lebesgue 定理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lebesgue 定理"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -347,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "更序级数 (重排级数).md",
+                "file": "实对称矩阵的相似对角阵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 更序级数 (重排级数)"
+              "title": "Backlinks for 实对称矩阵的相似对角阵"
             }
           },
           {
@@ -436,33 +394,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "4a672757234dc332",
+  "active": "a6db7ab1a662366c",
   "lastOpenFiles": [
-    "更序级数 (重排级数).md",
-    "级数的乘积.md",
-    "任意项级数.md",
-    "惯性定理与正定二次型.md",
-    "正交性.md",
-    "实二次型及其标准型.md",
-    "实对称矩阵的相似对角阵.md",
-    "矩阵秩相关的常用结论.md",
+    "有理函数的积分.md",
+    "分部积分的应用.md",
+    "数列的上下极限.md",
+    "微积分基本定理.md",
+    "瑕积分.md",
     "无穷积分.md",
-    "定积分的应用.md",
-    "可积性.md",
     "积分第二中值定理.md",
+    "线性变换.md",
+    "线性变换的性质.md",
+    "矩阵秩相关的常用结论.md",
+    "定积分的运算性质.md",
+    "线性空间.md",
+    "常用积分公式.md",
+    "A与A伴随的秩之间的关系.md",
+    "乱七八糟的积分例题.md",
+    "可积函数类.md",
+    "Lebesgue 定理.md",
+    "Floyd 判圈算法.md",
+    "可积性.md",
+    "定积分的计算方法.md",
+    "定积分的应用.md",
+    "定积分的引入.md",
+    "正交性.md",
     "收敛级数的性质.md",
     "可积函数的性质.md",
-    "可积函数类.md",
-    "正项级数的敛散性.md",
-    "定积分的运算性质.md",
-    "数列的上下极限.md",
-    "对角矩阵的几何意义.md",
-    "数项级数.md",
-    "Floyd 判圈算法.md",
-    "瑕积分.md",
-    "对角矩阵.md",
-    "线性变换在不同基下的矩阵.md",
-    "对合矩阵.md",
-    "线性变换的性质.md"
+    "正项级数的敛散性.md"
   ]
 }

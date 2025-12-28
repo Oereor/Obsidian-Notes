@@ -1,18 +1,18 @@
 ### 零测集
 
-**定义.** 称一个集合 $E$ 为零测集, 如果对任意的 $\epsilon > 0$, 存在一个可数个开区间的并 $U$, 使得 $E \subset U$ 且 $\displaystyle\sum_{i=1}^{\infty} |U_i| < \epsilon$. 
+**定义.** 称一个集合 $E$ 为零测集, 如果对任意的 $\varepsilon > 0$, 存在一个可数个开区间的并 $U$, 使得 $E \subset U$ 且 $\displaystyle\sum_{i=1}^{\infty} |U_i| < \varepsilon$. 
 
 也就是说, 存在一个 $E$ 的开覆盖, 它的长度可以任意小. 显然, 空集是零测集.
 
 **定理.** 如果 $E$ 是至多可数的, 则 $E$ 是零测集.
 
-> **证明.** 设 $E = \{x_1, x_2, \ldots\}$, 则可以取 $$U_i=\left( x_i - \frac{\epsilon}{2^{i+1}}, x_i + \frac{\epsilon}{2^{i+1}} \right)$$ 则 $$\sum_{i=1}^{\infty} |U_i| = \sum_{i=1}^{\infty} \frac{\epsilon}{2^i} = \frac{\epsilon}{2}<\epsilon$$ 于是 $E$ 是零测集.
+> **证明.** 设 $E = \{x_1, x_2, \ldots\}$, 则可以取 $$U_i=\left( x_i - \frac{\varepsilon}{2^{i+1}}, x_i + \frac{\varepsilon}{2^{i+1}} \right)$$ 则 $$\sum_{i=1}^{\infty} |U_i| = \sum_{i=1}^{\infty} \frac{\varepsilon}{2^i} = \frac{\varepsilon}{2}<\varepsilon$$ 于是 $E$ 是零测集.
 
 **注1.** 任何长度不为 $0$ 的区间都不是零测集. 这是因为开覆盖的长度不小于区间的长度.
 
 **注2.** 零测集的子集也是零测集. 
 
-**注3.** 至多可数个零测集的并仍然是零测集. 这可以通过取满足如下条件的开覆盖列 $\{U_i\}_{i=1}^{\infty}$ 得到: $$|U_i|<\frac{\epsilon}{2^i}$$ 
+**注3.** 至多可数个零测集的并仍然是零测集. 这可以通过取满足如下条件的开覆盖列 $\{U_i\}_{i=1}^{\infty}$ 得到: $$|U_i|<\frac{\varepsilon}{2^i}$$ 
 
 ### Lebesgue 定理
 
@@ -23,3 +23,5 @@
 显然, $f$ 在 $x_0$ 处连续的充分必要条件是 $\omega_f(x_0) = 0$.
 
 **定理 (Lebesgue).** 设 $f$ 在 $[a,b]$ 上有界, 那么 $f\in R[a,b]$ 的充分必要条件是 $D(f)$ 是零测集.
+
+> 这个定理的证明很长, 此处略去. 
