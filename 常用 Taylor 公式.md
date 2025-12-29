@@ -1,0 +1,10 @@
+1. $\displaystyle e^x=1+x+\cdots+\frac{1}{n!}x^n+o(x_n),\ x\to 0$. 
+2. $\displaystyle\sin x=x-\frac{1}{3!}x^3+\cdots+(-1)^{n}\frac{1}{(2n+1)!}x^{2n+1}+o(x^{2n+1}),\ x\to 0$.
+3. $\displaystyle\cos x=1-\frac{1}{2!}x^2+\cdots+(-1)^{n}\frac{1}{(2n)!}x^{2n}+o(x^{2n}),\ x\to 0$.
+4. $\displaystyle\ln(1+x)=x-\frac{1}{2}x^2+\cdots+(-1)^{n-1}\frac{1}{n}x^n+o(x^n),\ x\to 0$.
+5. $\displaystyle(1+x)^{\alpha}=1+\alpha x+\cdots+\frac{\alpha(\alpha-1)\cdots(\alpha-n+1)}{n!}x^n+o(x^n),\ x\to 0$.
+6. $\displaystyle\arcsin x=x+\frac{1}{2\cdot 3}x^3+\cdots+\frac{1\cdot 3\cdots(2n-1)}{2\cdot 4\cdots(2n)(2n+1)}x^{2n+1}+o(x^{2n+1}),\ x\to 0$.
+7. $\displaystyle\arctan x=x-\frac{1}{3}x^3+\cdots+(-1)^n\frac{1}{2n+1}x^{2n+1}+o(x^{2n+1}),\ x\to 0$.
+8. $\displaystyle\sinh x=x+\frac{1}{3!}x^3+\cdots+\frac{1}{(2n+1)!}x^{2n+1}+o(x^{2n+1}),\ x\to 0$.
+9. $\displaystyle\cosh x=1+\frac{1}{2!}x^2+\cdots+\frac{1}{(2n)!}x^{2n}+o(x^{2n}),\ x\to 0$.
+10. $\displaystyle\tan x=x+\frac{1}{3}x^3+\cdots+\frac{2^{2n}(2^{2n}-1)B_{2n}}{(2n)!}x^{2n+1}+o(x^{2n+1}),\ x\to 0$, 其中 $B_{2n}$ 为 Bernoulli 数.
