@@ -582,7 +582,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -614,7 +614,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "相似",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -635,8 +635,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -745,14 +744,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4750629d4be3cc0",
+  "active": "dd9661384ad5f947",
   "lastOpenFiles": [
+    "A与A伴随的秩之间的关系.md",
+    "矩阵秩相关的常用结论.md",
     "矩阵的相似变换.md",
     "如何求线性变换的值域与核.md",
     "定积分的应用.md",
     "线性变换的矩阵.md",
     "实二次型及其标准型.md",
-    "A与A伴随的秩之间的关系.md",
     "特征值和特征向量的性质.md",
     "方阵的 Jordan 标准型.md",
     "方阵的特征值与特征向量.md",
@@ -771,7 +771,6 @@
     "无穷乘积.md",
     "正定矩阵的性质.md",
     "惯性定理与正定二次型.md",
-    "方阵的化零多项式.md",
-    "实对称矩阵的相似对角阵.md"
+    "方阵的化零多项式.md"
   ]
 }
