@@ -50,6 +50,118 @@
             }
           },
           {
+            "id": "65e89dd04f591f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性变换在不同基下的矩阵.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "线性变换在不同基下的矩阵"
+            }
+          },
+          {
+            "id": "6b84270645aac0b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欧氏空间.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欧氏空间"
+            }
+          },
+          {
+            "id": "4f8ba6cfcf46f4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "方阵的 Jordan 标准型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "方阵的 Jordan 标准型"
+            }
+          },
+          {
+            "id": "dd9661384ad5f947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "方阵的特征值与特征向量.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "方阵的特征值与特征向量"
+            }
+          },
+          {
+            "id": "a4a2f6d97098ce80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特征值和特征向量的性质.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "特征值和特征向量的性质"
+            }
+          },
+          {
+            "id": "c8e99b0e8c69ee02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A与A伴随的秩之间的关系.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A与A伴随的秩之间的关系"
+            }
+          },
+          {
+            "id": "7995d84dc124c4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "矩阵的相似变换.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵的相似变换"
+            }
+          },
+          {
+            "id": "70dd1b9aceef976c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如何求线性变换的值域与核.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何求线性变换的值域与核"
+            }
+          },
+          {
             "id": "401301ba25d92eab",
             "type": "leaf",
             "state": {
@@ -173,6 +285,20 @@
               },
               "icon": "lucide-file",
               "title": "实二次型及其标准型"
+            }
+          },
+          {
+            "id": "31418deed9b80b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性变换的矩阵.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "线性变换的矩阵"
             }
           },
           {
@@ -456,7 +582,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -618,10 +744,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "3e77dd15fdadac18",
+  "active": "9b6c1afe5940e227",
   "lastOpenFiles": [
-    "分部积分的应用.md",
+    "线性变换的矩阵.md",
+    "实二次型及其标准型.md",
+    "A与A伴随的秩之间的关系.md",
+    "特征值和特征向量的性质.md",
+    "矩阵的相似变换.md",
+    "方阵的 Jordan 标准型.md",
+    "如何求线性变换的值域与核.md",
+    "方阵的特征值与特征向量.md",
+    "欧氏空间.md",
+    "线性变换在不同基下的矩阵.md",
     "常用积分公式.md",
+    "分部积分的应用.md",
     "无穷级数的概念性问题.md",
     "无穷积分.md",
     "收敛级数的性质.md",
@@ -633,18 +769,8 @@
     "常用级数敛散性判别法.md",
     "无穷乘积.md",
     "正定矩阵的性质.md",
-    "实二次型及其标准型.md",
     "惯性定理与正定二次型.md",
     "方阵的化零多项式.md",
-    "实对称矩阵的相似对角阵.md",
-    "有理函数的积分.md",
-    "数列的上下极限.md",
-    "微积分基本定理.md",
-    "瑕积分.md",
-    "积分第二中值定理.md",
-    "线性变换.md",
-    "线性变换的性质.md",
-    "矩阵秩相关的常用结论.md",
-    "定积分的运算性质.md"
+    "实对称矩阵的相似对角阵.md"
   ]
 }
